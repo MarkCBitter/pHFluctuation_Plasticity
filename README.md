@@ -1,5 +1,7 @@
 #This repository includes code for all analyses associated with Bitter et al. (XX)
 
-#Time-series analysis of oceanographic data from each site are provided in .ipynb file X
+#Code for raw read trimming, filtering, and counts file generation is found in the ./Alignment_CountsMatrix.ipynb
 
-#pH-stress plasticity assessment is provided in .ipynb file y
+#Time-series analysis of oceanographic data from each site are provided in ./X
+
+#pH-stress plasticity assessment is provided in ./Y
