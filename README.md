@@ -5,4 +5,4 @@
 
 #Time-series analysis of oceanographic data from each site are provided in ./pHFluctuationDynamics.ipynb
 
-#pH-stress plasticity assessment is provided in ./Y
+#pH-stress plasticity assessment is provided in ./DESEQ_PlasticityAssessement.ipynb
